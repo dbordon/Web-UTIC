@@ -1,0 +1,138 @@
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalENFERMERIA" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLongTitle"><strong>Enfermería </strong></h5>
+
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+  <span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+			<div class="container">
+				<div class="row d-flex">
+				<!--	<div class="col-md-5 order-md-last wrap-about wrap-about d-flex align-items-stretch">
+						<div class="img" style="background-image: url(images/about.jpg); border"></div>
+					</div>-->
+					<div class="col-md-12 wrap-about py-12 pr-md-12 ftco-animate">
+          	<h2 class="mb-12"></h2>
+					
+							<div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Fundamentación</h3>
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongFUNDAENFER">
+ 							 <a href="carreras/9_enfer_fundamentacion.pdf" target="_blank" ><h3> Ver Documento</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Misión Visión</h3>                    
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongmisienfer">
+ 							 <a href="carreras/9_enfer_misionvision.pdf" target="_blank" ><h3>Ver Documento</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+              <div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Objetivos</h3>                    
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongobj">
+ 							 <a href="carreras/9_enfer_objetivos.pdf" target="_blank" ><h3>Ver Documento</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Perfil del Egresado</h3>                    
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongperegreenfer">
+ 							 <a href="carreras/9-perfil_egreso.pdf" target="_blank" ><h3>Ver perfil</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+
+
+							<div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Pensum 2014</h3>                    
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongperegreenfer">
+ 							 <a href="carreras/9-enfer_pensum2014.pdf" target="_blank" ><h3>Ver pensum</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+
+
+
+							<div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Pensum 2016</h3>                    
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongperegreenfer">
+ 							 <a href="carreras/9-enfer_pensum2016.pdf" target="_blank" ><h3>Ver pensum</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+
+
+
+							<div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+										<h3>Reglamento de prácticas</h3>                    
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongperegreenfer">
+ 							 <a href="carreras/9-reglamento_enfermeria.pdf" target="_blank" ><h3>Ver pensum</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+
+
+              <div class="col-lg-12">
+								<div class="services-2 d-flex">
+									<div class="text pl-3">
+                  <h3><strong>Preinscribíte aquí</strong></h3>
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLongIDENTIFICACION"><br>
+ 							 <a href="http://www.utic.edu.py/preinscripcion" target="_blank" ><h3>Completar Formulario</h3></a>
+						</button>									</div>
+								</div>
+							</div>
+										
+
+                  <!-----SEDES QUE OFRECEN LA CARRERA---->
+
+                 
+
+    <!---FIN SEDES QUE OFRECEN--->
+
+									</div>
+								</div>
+							</div>
+							<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+					</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+</div>
+
+</div>
+</div>
+</div>
+
+<!--FIN modal CONTABILIDAD--->
+
